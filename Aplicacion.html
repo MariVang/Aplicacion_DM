@@ -22,9 +22,10 @@
                 <p class="nombre">DangerMap</p>
             </div><br><br>
             <div class="contenido">
-                <div class="buscar" >Buscar</div>
+                <!-- <div class="buscar" >Buscar</div> -->
+                <input type="text" name="busqueda" id="busqueda2" placeholder="Buscar">
                 <!-- <i class="material-icons">search</i> -->
-                <input type="button" class="botonb" onclick="busqueda()"><i class="material-icons">search</i></input>
+                <input type="button" class="botonb" onclick="busqueda()"><i class="material-icons" onclick="busqueda()">search</i></input>
             </div><br>
             <div class="mapa"><img src="./mapa_riesgos.png" alt=""></div>
             <div>
@@ -39,7 +40,7 @@
             <div class="mapa02"><img src="./Mapa_Bog.png" alt=""></div>
         </div>
 
-        <div class="formulario">
+        <div class="formulario" style="visibility: hidden;">
             <input type="text">
             <input type="text">
         </div>
