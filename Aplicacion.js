@@ -34,7 +34,7 @@ let zonas = [
         "horario":"22:00 - +03:00"
 	},
     {
-        "nombre": "Chapinero",
+        "localidad": "Chapinero",
         "sector": "Chicó Lago",
         "desde": "Calle 85 con carrera 15",
         "hasta": "Calle 87 con carrera 20",
@@ -44,7 +44,7 @@ let zonas = [
         "horario":"21:00 - +00:00"
 	},
     {
-        "nombre": "Santa Fe",
+        "localidad": "Santa Fe",
         "sector": "Las Nieves",
         "desde": "Calle 16 con 5",
         "hasta": "Calle 19 con 3",
@@ -54,7 +54,7 @@ let zonas = [
         "horario":"21:00 - +03:00"
 	},
     {
-        "nombre": "San Cristóbal",
+        "localidad": "San Cristóbal",
         "sector": "Veinte de Julio",
         "desde": "Calle 31 sur con 10a",
         "hasta": "Calle 27 sur con 5",
@@ -64,7 +64,7 @@ let zonas = [
         "horario":"20:00 - +01:00"
 	},
     {
-        "nombre": "Usme",
+        "localidad": "Usme",
         "sector": "Gran Yomasa",
         "desde": "Calle 81 sur con 1",
         "hasta": "Calle 84 sur con 4 este",
@@ -74,7 +74,7 @@ let zonas = [
         "horario":"23:00 - +02:00"
 	},
     {
-        "nombre": "Tunjuelito",
+        "localidad": "Tunjuelito",
         "sector": "Venecia",
         "desde": "Transversal 44 con carrera 54",
         "hasta": "carrera 53 con diagonal 49a sur",
@@ -84,7 +84,7 @@ let zonas = [
         "horario":"20:00 - +00:00"
 	},
     {
-        "nombre": "Bosa",
+        "localidad": "Bosa",
         "sector": "Bosa Central",
         "desde": "Calle 65 sur con 80c",
         "hasta": "Calle 60 sur con 80i",
@@ -94,7 +94,7 @@ let zonas = [
         "horario":"23:00 - +02:00"
 	},
     {
-        "nombre": "Kennedy",
+        "localidad": "Kennedy",
         "sector": "Castilla",
         "desde": "Calle 8 con 77",
         "hasta": "Calle 8a con 73b",
@@ -104,7 +104,7 @@ let zonas = [
         "horario":"22:00 - +04:00"
 	},
     {
-        "nombre": "Fontibón",
+        "localidad": "Fontibón",
         "sector": "Fontibón Centro",
         "desde": "Calle 22 con 105",
         "hasta": "Calle 23 con 101",
@@ -114,7 +114,7 @@ let zonas = [
         "horario":"23:00 - +04:00"
 	},
     {
-        "nombre": "Engativpá",
+        "localidad": "Engativpá",
         "sector": "Las Ferias",
         "desde": "Calle 73 con 68g",
         "hasta": "Calle 74b con 69h",
